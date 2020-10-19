@@ -1,0 +1,126 @@
+#Header-Title{
+	text-align: center;
+	color: rgb(7, 22, 243);
+	font-weight: bold;
+	background-color: #ffffff;
+	text-shadow: 2px 3px 5px #000000;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	letter-spacing: 4px;
+}
+.Navigation-Bar{
+	width: 100%;	
+}
+ul{
+	
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: right;
+
+}
+.Navigation-Bar ul{
+    margin-right: 35px;
+}
+ul li{
+
+display: inline;
+margin: 10px 17px
+
+}
+ul li a{
+	width: 25%;
+	font-size: 100%;
+	padding: 3px 7px;
+	background-color:#0000ff;
+    color: #ffff00;
+    text-decoration: none;
+}
+ul li a:hover{
+   background-color:#09ff00;
+   color: #0000ff; 
+}
+
+#Username{
+	color:rgb(29, 29, 238); 
+	float: right;
+	font-size: 110%;
+	margin-right: 14px; 
+	font-weight: bold;
+	position: relative;
+	cursor: pointer;
+	
+}
+#Username a{
+	text-decoration: none;
+}
+.Footer{
+	color: rgb(7, 22, 243);
+	font-weight: bold;
+	text-align: center;
+    font-size:110% ;
+}
+
+.Content1{
+width: 100%;
+height: 480px;
+
+
+}
+
+.Table1{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.Home_Content{
+	width: 100%;
+    height: 480px;
+   
+}
+.Card{
+	width: 20%;
+	height: 400px;
+	overflow: hidden;
+	display: inline-block;
+	margin-left: 4%;
+	margin-top: 16px;
+	box-shadow: 4px 3px 5px grey;
+	border-radius: 0px 0px 10px 0px;
+		
+}
+img{
+	max-width: 100%;
+	height: 50%;
+	
+}
+.Card-Word{
+	padding: 2px;
+	margin: 4px;
+	line-height: 19px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Card-Word > h3{
+	text-align: center;
+	}
+	.Card-Word > h3 > a{
+	color: #0000ff;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.Picture img{
+	width: 100%;
+	height: 416px;
+}
+.H1-Title{
+	color:blue;
+	font-size: 150%;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.LogOFF{
+	color: crimson;
+}
